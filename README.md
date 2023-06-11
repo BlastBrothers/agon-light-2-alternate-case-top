@@ -3,6 +3,8 @@
 # agon-light-2-alternate-case-top
 Two alternate case tops for the Olimex Agon Light 2, based on the original case designs by Coat: https://www.printables.com/model/422272-agon-light2-cases
 
+![case top 1](images/model1.png)
+
 Like the original designs, this work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
